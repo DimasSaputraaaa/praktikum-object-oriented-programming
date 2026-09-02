@@ -1,0 +1,18 @@
+# Compiled class files & build outputs
+**/out/
+**/bin/
+**/target/
+**/build/
+*.class
+
+# IntelliJ IDEA & IDE metadata
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.settings/
+**/.classpath
+**/.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
