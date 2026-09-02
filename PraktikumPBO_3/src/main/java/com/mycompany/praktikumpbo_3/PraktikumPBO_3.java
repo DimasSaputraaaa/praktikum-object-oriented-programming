@@ -2,16 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.dimasproject2;
+package com.mycompany.praktikumpbo_3;
 
 /**
  *
  * @author DIMAS
  */
-public class DimasProject2 {
+public class PraktikumPBO_3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello Worldddd!");
+        System.out.println("Hello World!");
     }
 }
-
